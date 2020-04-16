@@ -2,7 +2,6 @@
 Title: Crime pattern detection using historic data
 
 Abstract:
-
 Jewel Theft murder has become a serious issue in today’s society as crime rates are increasing rapidly. Police Officials find it difficult to identify things that can accurately and efficiently analyse the growing volume of data due to longer duration of investigation process. Our main aim is to analyse the jewel theft murder occurred over the years 2014-2019 and find crime patterns to reduce the further occurrence. The outcome of our project is to predict the jewel theft murder at a much faster rate and thus reduces the crime rate.
 
 Datasets:
