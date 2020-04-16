@@ -32,6 +32,7 @@ Description:
 Crime data is collected from various sources like Kaggle, Data.gov.in which is in csv format.
 The Crime data is then cleaned and unwanted data has been removed.
 Crime types and location descriptions are grouped and then plotted in the form of graph.
+
 Forecasting Jewel theft and murder crime rate:
 •	Split the data into training data and testing data
 •	Model creation
